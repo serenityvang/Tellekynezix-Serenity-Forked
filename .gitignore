@@ -48,3 +48,8 @@ P2P/**/*.rs.bk
 P2P/.cargo/
 .vscode/
 .idea/
+
+# =========================================================================
+# quantum-cryptography ignores
+# =========================================================================
+quantum-cryptography/tests/test_quantum_blockchain.py
